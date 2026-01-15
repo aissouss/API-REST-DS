@@ -1,0 +1,8 @@
+<posts>
+    <post>
+        <id>1</id>
+        <title>First Post</title>
+        <content>Hello World</content>
+        <userId>1</userId>
+    </post>
+</posts>
