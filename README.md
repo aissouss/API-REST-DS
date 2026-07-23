@@ -139,7 +139,7 @@ rest-api-express/
 
 This project was developed as a Web Services assignment during the L3 Software Engineering program.
 
-**Author:** Aissya Boukraa  
+**Author:** Aissouss 
 [GitHub](https://github.com/aissouss)
 
 ---
